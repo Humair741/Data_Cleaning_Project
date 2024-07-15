@@ -1,2 +1,2 @@
 # Data_Cleaning_Project
-A project showcasing data cleaning techniques using MySQL. Includes sample datasets and SQL scripts for data cleansing.
+This repository showcases data cleaning techniques using MySQL. The project includes SQL scripts to perform various data cleansing operations such as removing duplicates, standardizing data, handling null or blank values, and removing unnecessary columns or rows. The primary dataset used in this project pertains to layoffs, and the cleaning process is meticulously documented to ensure data quality and readiness for analysis.
